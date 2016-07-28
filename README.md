@@ -2,11 +2,11 @@
 
 
 
-[![Gatling](./images/gatling-logo.png)](http://gatling.io/#/)
+[![Gatling](./images/gatling.png)](http://gatling.io/#/)
 
-[![InfluxDB](./images/influxdb-logo.png)](https://influxdata.com/)
+[![InfluxDB](./images/influxdb.png)](https://influxdata.com/)
 
-[![Grafana](./images/grafana_icon.png)](http://grafana.org/)
+[![Grafana](./images/grafana.png)](http://grafana.org/)
 
 
 
